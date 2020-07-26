@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63009cd2412b2fea288d915f8459aa4a",
+    "revision": "fd8f30e45839231f6de7cdd96128b675",
     "url": "/yujiangdong/index.html"
   },
   {
-    "revision": "301dfdfe5d878317fdfa",
-    "url": "/yujiangdong/static/css/main.5f361e03.chunk.css"
+    "revision": "6ac6d479b92ba4b48d2a",
+    "url": "/yujiangdong/static/css/main.8be5376c.chunk.css"
   },
   {
     "revision": "14f5d25206bc4b8e3624",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yujiangdong/static/js/2.46515e64.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "301dfdfe5d878317fdfa",
-    "url": "/yujiangdong/static/js/main.c03483aa.chunk.js"
+    "revision": "6ac6d479b92ba4b48d2a",
+    "url": "/yujiangdong/static/js/main.c1ceffc8.chunk.js"
   },
   {
     "revision": "8da3784653ef2361611a",
     "url": "/yujiangdong/static/js/runtime-main.582ad51e.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/yujiangdong/static/media/logo.5d5d9eef.svg"
+    "revision": "27d769bba19180fd40a25af9972b67f9",
+    "url": "/yujiangdong/static/media/doudou_image.27d769bb.jpg"
   }
 ]);
