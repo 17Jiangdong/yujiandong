@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yujiangdong/static/css/main.d49cab78.chunk.css",
+    "main.css": "/yujiangdong/static/css/main.b45cbba8.chunk.css",
     "main.js": "/yujiangdong/static/js/main.2e8f9c18.chunk.js",
     "main.js.map": "/yujiangdong/static/js/main.2e8f9c18.chunk.js.map",
     "runtime-main.js": "/yujiangdong/static/js/runtime-main.582ad51e.js",
@@ -8,16 +8,16 @@
     "static/js/2.f28dc95e.chunk.js": "/yujiangdong/static/js/2.f28dc95e.chunk.js",
     "static/js/2.f28dc95e.chunk.js.map": "/yujiangdong/static/js/2.f28dc95e.chunk.js.map",
     "index.html": "/yujiangdong/index.html",
-    "precache-manifest.e7a2d5dd1014779014cea10bf4f2b5af.js": "/yujiangdong/precache-manifest.e7a2d5dd1014779014cea10bf4f2b5af.js",
+    "precache-manifest.cd17a4711f1b067e6a4f2dd31f870049.js": "/yujiangdong/precache-manifest.cd17a4711f1b067e6a4f2dd31f870049.js",
     "service-worker.js": "/yujiangdong/service-worker.js",
-    "static/css/main.d49cab78.chunk.css.map": "/yujiangdong/static/css/main.d49cab78.chunk.css.map",
+    "static/css/main.b45cbba8.chunk.css.map": "/yujiangdong/static/css/main.b45cbba8.chunk.css.map",
     "static/js/2.f28dc95e.chunk.js.LICENSE.txt": "/yujiangdong/static/js/2.f28dc95e.chunk.js.LICENSE.txt",
     "static/media/doudou_image.jpg": "/yujiangdong/static/media/doudou_image.27d769bb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.582ad51e.js",
     "static/js/2.f28dc95e.chunk.js",
-    "static/css/main.d49cab78.chunk.css",
+    "static/css/main.b45cbba8.chunk.css",
     "static/js/main.2e8f9c18.chunk.js"
   ]
 }
