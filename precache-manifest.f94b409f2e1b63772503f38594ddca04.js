@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff710bcd315cac2d299cae05e5824c2f",
+    "revision": "6005f389f17ae42af0e23d4a5df34730",
     "url": "/yujiangdong/index.html"
   },
   {
-    "revision": "4304fa06f3d2de208c3f",
+    "revision": "b8bb8a2b25738382baf6",
     "url": "/yujiangdong/static/css/main.b45cbba8.chunk.css"
   },
   {
-    "revision": "5b6a7faf73e9c13ca5f5",
-    "url": "/yujiangdong/static/js/2.da6ec197.chunk.js"
+    "revision": "f3ed2696b5fee894b2e9",
+    "url": "/yujiangdong/static/js/2.282bff4d.chunk.js"
   },
   {
     "revision": "ebec6ec5880fcec562f9a7747ae47b51",
-    "url": "/yujiangdong/static/js/2.da6ec197.chunk.js.LICENSE.txt"
+    "url": "/yujiangdong/static/js/2.282bff4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4304fa06f3d2de208c3f",
-    "url": "/yujiangdong/static/js/main.af6909e5.chunk.js"
+    "revision": "b8bb8a2b25738382baf6",
+    "url": "/yujiangdong/static/js/main.07da519a.chunk.js"
   },
   {
     "revision": "8da3784653ef2361611a",
